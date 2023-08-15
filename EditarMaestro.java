@@ -248,6 +248,3 @@ public class EditarMaestro extends JFrame {
 
 }
 
-//Creo que escribir de esta forma es un poco complicado para mi ya que la mesa esta alta y yo chaparro, pero en fin ya me duelen los hombros
-//Ahora eh cambiado de posicion y me es mas como escribir pero igual me duelen los hombros, mejor me voy a dormir
-//Now I have changed of position and I feel more confortable but my shoulders hurt, better I am going to the bed
